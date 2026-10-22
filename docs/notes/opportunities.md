@@ -1,0 +1,2 @@
+- Stochastic modelling of wind rather than playing through a single representative year
+- Models that account for the variability of wind across generation sites. Eg, this model seems to use provincial averages, which is unlikely realistic in a region the size of Ontario.

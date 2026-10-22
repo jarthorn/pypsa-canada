@@ -1,0 +1,1 @@
+The notes in this folder are summaries from code exploration and AI model analysis from an external party with no inside knowledge of the code base. Assume these are rough unverified notes rather than established fact.
